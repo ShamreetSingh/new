@@ -1,2 +1,6 @@
 Initial feature details
+<<<<<<< HEAD
 Added new updates in main branch
+=======
+Added new updates in feature-update branch
+>>>>>>> feature-update
